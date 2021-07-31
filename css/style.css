@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.custom-font{
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+}
+.custom-text{
+    font-size: 16px;
+}
+.custom-btn{
+    height: 44px;
+    width: 168px;
+    background-color:#E76F51;
+}
+.custom-header{
+    /* height: 698px; */
+    background-color: #264653;
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.bike-img{
+    width: 288px;
+    height: 243px;
+}
+.news-heading{
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 40px;
+    font-style: normal;
+    color: #18191F;
+}
+.client-img{
+    height: 149px;
+    width: 149px;
+}
+.question-img{
+    width: 424px;
+    height: 397px;
+}
